@@ -1,0 +1,11 @@
+{
+  "name": "Reinhardt",
+  "version": "1.0.0",
+  "description": "Justice will be done.",
+  "main": "bot.js",
+  "author": "Dion Santegoets",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
